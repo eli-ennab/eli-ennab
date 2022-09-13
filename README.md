@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi, I'm Eli
+###### and I'm currently a Front end developer-student @Medieinstitutet in Malmo, Sweden
 
 <!--
 **eli-ennab/eli-ennab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

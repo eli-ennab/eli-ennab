@@ -1,6 +1,15 @@
 # Hi, I'm Eli
 ###### and I'm currently a Front end developer-student @Medieinstitutet in Malmo, Sweden
 
+<details><summary>Contact me @</summary>
+<p>
+
+#### mail: elina.ennab@medieinstitutet.se
+#### linkedin: elina ennab
+
+</p>
+</details>
+
 <!--
 **eli-ennab/eli-ennab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

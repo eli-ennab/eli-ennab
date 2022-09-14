@@ -4,7 +4,7 @@
 <details><summary>Contact me @</summary>
 <p>
 
-#### mail: elina.ennab@medieinstitutet.se
+#### email: elina.ennab@medieinstitutet.se
 #### linkedin: elina ennab
 
 </p>

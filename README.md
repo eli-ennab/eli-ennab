@@ -3,5 +3,4 @@
 
 Connect with me: <a href="https://www.linkedin.com/in/elina-ennab-13ba57249/?originalSubdomain=se" target="_blank">LinkedIn</a>.
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eli-ennab&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eli-ennab&theme=nord)

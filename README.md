@@ -1,5 +1,7 @@
 # Front end developer with fullstack ambitions
 
+[LinkedIn](https://www.linkedin.com/in/elina-ennab-13ba57249/?originalSubdomain=se)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eli-ennab&theme=nord)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eli-ennab&theme=nord&hide_progress=true)](https://github.com/eli-ennab/github-readme-stats)
